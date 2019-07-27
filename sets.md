@@ -2,8 +2,19 @@
 - V Jump promotional cards (VJMP-JP) : `100200XXX`
 - Weekly Shōnen Jump promotional cards (WJMP-JP) : `100203XXX`
 - Saikyō Jump promotional card (SJMP-JP) : `100204XXX`
+- **July 13, 2019** : CHAOS IMPACT (CHIM-JP) : `101010XXX`
+- **July 21, 2019** : Jump Victory Carnival 2019 (VF19-JP) : `100253XXX`
+- **August 3, 2019** : Deck Build Pack: Mystic Fighters (DBMF-JP) : `100413XXX`
+- **August 31, 2019** : LINK VRAINS DUELIST SET (LVDS-JP) : `100254XXX`
+- **September 28, 2019** : Structure Deck R: Warrior's Strike (SR09-JP) : `100309XXX`
+- **October 12, 2019** : IGNITION ASSAULT (IGAS-JP) : `101011XXX`
+- **November 20, 2019** : 20th ANNIVERSARY MONSTER ART BOX (YMAB-JP) : `100251XXX`
 
 # Announced
+- **August 22, 2019** : Fists of the Gadgets (????-EN) : `100255XXX`
+- **November 9, 2019** : Duelist Pack: Legend Duelist 6 (DP23-JP) : `100423XXX`
+- **November 23, 2019** : LINK VRAINS PACK 3 (LVP3-JP) : `100256XXX`
+- **December 7, 2019** : Structure Deck: (SD37-JP) : `100337XXX`
 
 # Archived
 ## Other packs
@@ -60,6 +71,8 @@
 - The Valuable Book 21 (VB21-JP) : `100247XXX`
 - Collectors Pack 2019 (CP19-JP) : `100248XXX`
 - Yu-Gi-Oh! Legacy of the Duelist: Link Evolution Duelist Complete Guide promotional card (LDLE-JPB) : `100249XXX`
+- Promotion Pack (19PR-JP) : `100250XXX`
+- Arc-V Volume 7 (YA07-JP) : `100252XXX`
 
 ## Structure decks
 - Structure Deck: Yugi Muto (SDMY-JP) : `100301XXX`
@@ -70,6 +83,7 @@
 - Structure Deck R: Surge of Divine Light (SR05-JP) : `100305XXX`
 - Structure Deck R: Curse of the Dark (SR06-JP) : `100306XXX`
 - Structure Deck R: Undead World (SR07-JP) : `100307XXX`
+- Structure Deck R: Lord of Magician (SR08-JP) : `100308XXX`
 -----
 - Starter Deck 2016 (ST16-JP) : `100316XXX`
 - Starter Deck 2017 (ST17-JP) : `100317XXX`
@@ -81,6 +95,7 @@
 - Structure Deck: Powercode Link (SD33-JP) : `100333XXX`
 - Structure Deck: Master Link (SD34-JP) : `100334XXX`
 - Structure Deck: Soulburner (SD35-JP) : `100335XXX`
+- Structure Deck: Revolver (SD36-JP) : `100336XXX`
 
 ## Duelist packs & Booster SP packs & Deck Build packs
 - Booster SP: Destiny Soldiers (SPDS-JP) : `100405XXX`
@@ -95,6 +110,7 @@
 - Duelist Pack: Legend Duelist 2 (DP19-JP) : `100407XXX` ~~Should have been `100419XXX`~~
 - Duelist Pack: Legend Duelist 3 (DP20-JP) : `100409XXX` ~~Should have been `100420XXX`~~
 - Duelist Pack: Legend Duelist 4 (DP21-JP) : `100411XXX` ~~Should have been `100421XXX`~~
+- Duelist Pack: Legend Duelist 5 (DP22-JP) : `100422XXX`
 
 ## Booster packs
 - THE DARK ILLUSION (TDIL-JP) : `100909XXX`
