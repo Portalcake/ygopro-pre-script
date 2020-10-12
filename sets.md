@@ -2,19 +2,12 @@
 - V Jump promotional cards (VJMP-JP) : `100200XXX`
 - Weekly Shōnen Jump promotional cards (WJMP-JP) : `100203XXX`
 - Saikyō Jump promotional card (SJMP-JP) : `100204XXX`
-- **July 13, 2019** : CHAOS IMPACT (CHIM-JP) : `101010XXX`
-- **July 21, 2019** : Jump Victory Carnival 2019 (VF19-JP) : `100253XXX`
-- **August 3, 2019** : Deck Build Pack: Mystic Fighters (DBMF-JP) : `100413XXX`
-- **August 31, 2019** : LINK VRAINS DUELIST SET (LVDS-JP) : `100254XXX`
-- **September 28, 2019** : Structure Deck R: Warrior's Strike (SR09-JP) : `100309XXX`
-- **October 12, 2019** : IGNITION ASSAULT (IGAS-JP) : `101011XXX`
-- **November 20, 2019** : 20th ANNIVERSARY MONSTER ART BOX (YMAB-JP) : `100251XXX`
+- **September 12, 2020**: Deck Build Pack: Genesis Impactors (DBGI-JP): `100415XXX`
+- **October 31, 2020**: Blazing Vortex (BLVO-JP): `101103XXX`
+- **November 21, 2020**: Structure Deck: Ice Barrier of the Frozen Prison (SD40-JP) : `100340XXX`
 
 # Announced
-- **August 22, 2019** : Fists of the Gadgets (????-EN) : `100255XXX`
-- **November 9, 2019** : Duelist Pack: Legend Duelist 6 (DP23-JP) : `100423XXX`
-- **November 23, 2019** : LINK VRAINS PACK 3 (LVP3-JP) : `100256XXX`
-- **December 7, 2019** : Structure Deck: (SD37-JP) : `100337XXX`
+- **October 3, 2020** :WORLD PREMIERE PACK 2020(WP20-JP) : `100270XXX`
 
 # Archived
 ## Other packs
@@ -73,6 +66,25 @@
 - Yu-Gi-Oh! Legacy of the Duelist: Link Evolution Duelist Complete Guide promotional card (LDLE-JPB) : `100249XXX`
 - Promotion Pack (19PR-JP) : `100250XXX`
 - Arc-V Volume 7 (YA07-JP) : `100252XXX`
+- Jump Victory Carnival 2019 (VF19-JP) : `100253XXX`
+- LINK VRAINS DUELIST SET (LVDS-JP) : `100254XXX`
+- Fists of the Gadgets (FIGA-EN) : `100255XXX`
+- 2019 Gold Sarcophagus Tin (TN19-EN) : `100256XXX`
+- Extra Pack 2019 (EP19-JP) : `100258XXX`
+- 20th ANNIVERSARY MONSTER ART BOX (YMAB-JP) : `100251XXX`
+- LINK VRAINS PACK 3 (LVP3-JP) : `100257XXX`
+- LEGENDARY GOLD BOX (LGB1-JP) : `100259XXX`
+- Premium Pack 2020 (20PP-JP) : `100260XXX`
+- Jump Festa Limited Pack 2019 (JF20-JP) : `100261XXX`
+- Yu-Gi-Oh! OCG Structures Volume 1 promotional card (YO01-JP) : `100262XXX`
+- Master Guide 6 promotional cards (MG06-JP) : `100263XXX`
+- The Valuable Book 22 (VB22-JP) : `100264XXX`
+- Duel Overload (DUOV-EN) : `100265XXX`
+- Toon Chaos (TOCH-EN) : `100268XXX`
+- Collectors Pack 2020 (CP20-JP) : `100266XXX`
+- PRISMATIC SPECIAL PACK (VP20-JP) : `100267XXX`
+- 2020 Tin of Lost Memories (MP20-EN) : `100271XXX`
+- Yu-Gi-Oh! OCG Structures Volume 2 promotional card (YO02-JP): `100269XXX`
 
 ## Structure decks
 - Structure Deck: Yugi Muto (SDMY-JP) : `100301XXX`
@@ -84,6 +96,9 @@
 - Structure Deck R: Curse of the Dark (SR06-JP) : `100306XXX`
 - Structure Deck R: Undead World (SR07-JP) : `100307XXX`
 - Structure Deck R: Lord of Magician (SR08-JP) : `100308XXX`
+- Structure Deck R: Warrior's Strike (SR09-JP) : `100309XXX`
+- Structure Deck R: Machiners Command (SR10-JP) : `100310XXX`
+- Structure Deck R: Dragunity Drive (SR11-JP) : `100311XXX`
 -----
 - Starter Deck 2016 (ST16-JP) : `100316XXX`
 - Starter Deck 2017 (ST17-JP) : `100317XXX`
@@ -96,6 +111,9 @@
 - Structure Deck: Master Link (SD34-JP) : `100334XXX`
 - Structure Deck: Soulburner (SD35-JP) : `100335XXX`
 - Structure Deck: Revolver (SD36-JP) : `100336XXX`
+- Structure Deck: Rebirth of Shaddoll (SD37-JP) : `100337XXX`
+- Structure Deck: Sacred Beasts of Chaos (SD38-JP) : `100338XXX`
+- Structure Deck: Masters of the Spiritual Arts (SD39-JP) : `100339XXX`
 
 ## Duelist packs & Booster SP packs & Deck Build packs
 - Booster SP: Destiny Soldiers (SPDS-JP) : `100405XXX`
@@ -104,6 +122,8 @@
 - Deck Build Pack: Dark Savers (DBDS-JP) : `100408XXX`
 - Deck Build Pack: Hidden Summoners (DBHS-JP) : `100410XXX`
 - Deck Build Pack: Infinity Chasers (DBIC-JP) : `100412XXX`
+- Deck Build Pack: Mystic Fighters (DBMF-JP) : `100413XXX`
+- Deck Build Pack: Secret Slayers (DBSS-JP) : `100414XXX`
 -----
 - Duelist Pack: Pharaoh's Memories (DP17-JP) : `100417XXX`
 - Duelist Pack: Legend Duelist (DP18-JP) : `100418XXX`
@@ -111,6 +131,8 @@
 - Duelist Pack: Legend Duelist 3 (DP20-JP) : `100409XXX` ~~Should have been `100420XXX`~~
 - Duelist Pack: Legend Duelist 4 (DP21-JP) : `100411XXX` ~~Should have been `100421XXX`~~
 - Duelist Pack: Legend Duelist 5 (DP22-JP) : `100422XXX`
+- Duelist Pack: Legend Duelist 6 (DP23-JP) : `100423XXX`
+- Duelist Pack: Duelists of Gloom (DP24-JP) : `100424XXX`
 
 ## Booster packs
 - THE DARK ILLUSION (TDIL-JP) : `100909XXX`
@@ -126,3 +148,8 @@
 - SAVAGE STRIKE (SAST-JP) : `101007XXX`
 - DARK NEOSTORM (DANE-JP) : `101008XXX`
 - RISING RAMPAGE (RIRA-JP) : `101009XXX`
+- CHAOS IMPACT (CHIM-JP) : `101010XXX`
+- IGNITION ASSAULT (IGAS-JP) : `101011XXX`
+- ETERNITY CODE (ETCO-JP) : `101012XXX`
+- RISE OF THE DUELIST (ROTD-JP) : `101101XXX`
+- PHANTOM RAGE (PHRA-JP) : `101102XXX`
